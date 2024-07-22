@@ -1,3 +1,9 @@
+# -------------------------------------------------------------------------
+# 참고: 이 코드의 일부는 다음 GitHub 리포지토리에서 참고하였습니다:
+# https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407
+# 해당 리포지토리의 라이센스에 따라 사용되었습니다.
+# -------------------------------------------------------------------------
+
 import streamlit as st
 import time
 from langchain_core.messages import HumanMessage, AIMessage
